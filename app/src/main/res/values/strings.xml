@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TranslateAnimation</string>
+    <string name="xml_name">Click me to get moved(XML)</string>
+    <string name="java_name">Click me to get moved(JavaCode)</string>
+</resources>
